@@ -1,7 +1,5 @@
 ![unnamed (2)](https://github.com/user-attachments/assets/c5e731e2-b1cc-47e9-b518-907bdf85803b)
-<p align="center">
-  <img src = "https://github.com/user-attachments/assets/c5e731e2-b1cc-47e9-b518-907bdf85803b" alt="Phichit-Vec Banner" width="1000">
-</p>
+
 
 ## Hi there, I'm Phichit Wet
 I'm a currently student who study computer engineer at Mahidol University International College.
