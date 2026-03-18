@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 width="150" alt="Vector Search and Embeddings">
 </a>
 <a href= "(https://www.skills.google/public_profiles/45451fb5-90d7-46c9-ad9b-4da58b1fbd76)">
-  <img src=img width="500" height="455" alt="j5ngMFMxi3u+1au5KWPEefoZlYRw5zGb5ykLd+ilYk4=" src="https://github.com/user-attachments/assets/305b9699-0976-42d8-a647-b7effbc9dbcb" / width="120" alt="Introduction to Image Generation">
+  <img src="https://github.com/user-attachments/assets/305b9699-0976-42d8-a647-b7effbc9dbcb" / width="120" alt="Introduction to Image Generation">
 </a>
 
 
