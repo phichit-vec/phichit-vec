@@ -1,5 +1,5 @@
-<img width="500" height="455" alt="j5ngMFMxi3u+1au5KWPEefoZlYRw5zGb5ykLd+ilYk4=" src="https://github.com/user-attachments/assets/82a5a152-7e89-4fb8-9b28-0ec7f79334d0" />
 
+![unnamed (2)](https://github.com/user-attachments/assets/fc45012e-76bc-42d1-88bf-5dd4ae509c7c)
 
 ## Hi there, I'm Phichit Wet
 I'm a currently student who study computer engineer at Mahidol University International College.
