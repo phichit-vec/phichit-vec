@@ -1,4 +1,4 @@
-<img width="500" height="455" alt="j5ngMFMxi3u+1au5KWPEefoZlYRw5zGb5ykLd+ilYk4=" src="https://github.com/user-attachments/assets/82a5a152-7e89-4fb8-9b28-0ec7f79334d0" />![unnamed (2)](https://github.com/user-attachments/assets/c5e731e2-b1cc-47e9-b518-907bdf85803b)
+<img width="500" height="455" alt="j5ngMFMxi3u+1au5KWPEefoZlYRw5zGb5ykLd+ilYk4=" src="https://github.com/user-attachments/assets/82a5a152-7e89-4fb8-9b28-0ec7f79334d0" />
 
 
 ## Hi there, I'm Phichit Wet
