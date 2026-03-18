@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### ☁️ Google Cloud Badges
 
 <a href="(https://www.skills.google/public_profiles/45451fb5-90d7-46c9-ad9b-4da58b1fbd76)">
-  <img " src="https://github.com/user-attachments/assets/f5d14e8c-354e-42c8-98d3-d34e466282e0" />
+  <img " src="https://github.com/user-attachments/assets/f5d14e8c-354e-42c8-98d3-d34e466282e0" /
 width="120" alt="Vector Search and Embeddings">
 </a>
 <a href="วาง_PUBLIC_PROFILE_URL_ของคุณตรงนี้">
