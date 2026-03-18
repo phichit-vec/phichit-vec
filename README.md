@@ -36,6 +36,8 @@ width="150" alt="Vector Search and Embeddings">
   <img src="https://github.com/user-attachments/assets/184b3646-a7bf-4edf-8955-16b87ee32258" / width="150" alt="Introduction to AI and Machine Learning on Google Cloud">
 <a href= "(https://www.skills.google/public_profiles/45451fb5-90d7-46c9-ad9b-4da58b1fbd76)">
   <img src="https://github.com/user-attachments/assets/82436fdc-d8b6-47b1-9c1a-fbd468c04e3c" / width="150" alt="Introduction to Large Language Models">
+<a href= "(https://www.skills.google/public_profiles/45451fb5-90d7-46c9-ad9b-4da58b1fbd76)">
+  <img  src="https://github.com/user-attachments/assets/aacc2699-6446-4302-aa00-6d7a37c75883"/ width="150" alt="Introduction to Generative AI">
 
 
 
